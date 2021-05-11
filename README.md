@@ -71,7 +71,7 @@ public class VeriTabani extends SQLiteOpenHelper {
 
 ![7](https://user-images.githubusercontent.com/37263322/117829169-2cf66980-b27b-11eb-84db-569cbc107f58.PNG)
 
-+ Hazır Veritabanını cihazımıza kopyalamak için **DatabaseCopyHelper** hazır sınıfımızı **Database** paketinin içine yapıştırıyoruz ve içerisindeki `DB_NAME` özelliğini kendi veritabanı ismimiz ile değiştiriyoruz. Daha sonra veritabanı kopyalama işlemini **MainActivity** içerisinde aktifleştiriyoruz.
++ Hazır Veritabanını cihazımıza kopyalamak için **[DatabaseCopyHelper](https://github.com/mehmetaydintr/Bayrak_Quiz_App/blob/main/BayrakQuiz/app/src/main/java/com/info/bayrakquiz/Database/DatabaseCopyHelper.java)** hazır sınıfımızı **Database** paketinin içine yapıştırıyoruz ve içerisindeki `DB_NAME` özelliğini kendi veritabanı ismimiz ile değiştiriyoruz. Daha sonra veritabanı kopyalama işlemini **MainActivity** içerisinde aktifleştiriyoruz.
 
 ```
 private Button buttonBasla;
@@ -212,7 +212,7 @@ public class BayraklarDao {
     private ArrayList<Bayraklar> secenekler = new ArrayList<>();  
 ```
 
-Daha sonra `veriTabi` nesnesi oluşturup `sorularListe` array listemizi `BayraklarDao` sınıfındaki `rastgele5Getir` metodu ile dolduruyoruz ve ilk soruyu yüklemek için `soruyuYukle()` metodunu çağırıyoruz.
+Daha sonra `veriTabani` nesnesi oluşturup `sorularListe` array listemizi `BayraklarDao` sınıfındaki `rastgele5Getir` metodu ile dolduruyoruz ve ilk soruyu yüklemek için `soruyuYukle()` metodunu çağırıyoruz.
 
 ```
 veriTabani = new VeriTabani(this);
