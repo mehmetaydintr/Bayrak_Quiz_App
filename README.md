@@ -299,8 +299,7 @@ textViewSonuc.setText("%" + (dogruSayac*100)/5 + "BAŞARI");
 
 ## Örnek Ekran Görüntüleri
 
-![11](https://user-images.githubusercontent.com/37263322/117850848-62588280-b28e-11eb-89a5-89a5df2abcd0.png)
-![12](https://user-images.githubusercontent.com/37263322/117850851-6389af80-b28e-11eb-9007-ed5ccd4d756e.png)
+![21](https://user-images.githubusercontent.com/37263322/117852734-5077df00-b290-11eb-98c5-c72abf551387.png)
+![22](https://user-images.githubusercontent.com/37263322/117852735-51107580-b290-11eb-8546-10ad9dd163a2.png)
+![23](https://user-images.githubusercontent.com/37263322/117852741-5241a280-b290-11eb-876b-859241f8c689.png)
 
-![13](https://user-images.githubusercontent.com/37263322/117850857-64224600-b28e-11eb-83ea-e253e8e8b459.png)
-![14](https://user-images.githubusercontent.com/37263322/117850859-64badc80-b28e-11eb-969b-327a4fb3b9a4.png)
