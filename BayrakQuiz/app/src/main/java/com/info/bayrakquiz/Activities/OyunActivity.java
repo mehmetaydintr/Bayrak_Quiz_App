@@ -1,4 +1,4 @@
-package com.info.bayrakquiz;
+package com.info.bayrakquiz.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,6 +10,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.google.android.material.snackbar.Snackbar;
+import com.info.bayrakquiz.Objects.Bayraklar;
+import com.info.bayrakquiz.Database.BayraklarDao;
+import com.info.bayrakquiz.Database.VeriTabani;
+import com.info.bayrakquiz.R;
 
 import java.util.ArrayList;
 import java.util.HashSet;

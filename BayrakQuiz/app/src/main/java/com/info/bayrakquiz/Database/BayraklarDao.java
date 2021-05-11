@@ -1,7 +1,10 @@
-package com.info.bayrakquiz;
+package com.info.bayrakquiz.Database;
 
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+
+import com.info.bayrakquiz.Database.VeriTabani;
+import com.info.bayrakquiz.Objects.Bayraklar;
 
 import java.util.ArrayList;
 

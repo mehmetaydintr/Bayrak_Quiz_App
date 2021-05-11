@@ -1,4 +1,4 @@
-package com.info.bayrakquiz;
+package com.info.bayrakquiz.Database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

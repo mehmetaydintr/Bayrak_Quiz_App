@@ -1,4 +1,4 @@
-package com.info.bayrakquiz;
+package com.info.bayrakquiz.Objects;
 
 public class Bayraklar {
 
