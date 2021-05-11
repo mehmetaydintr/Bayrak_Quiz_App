@@ -67,7 +67,7 @@ public class VeriTabani extends SQLiteOpenHelper {
 
 ![6](https://user-images.githubusercontent.com/37263322/117828808-d8eb8500-b27a-11eb-91e3-4679089ee547.png)
 
-+ Hazır olan veritabanımızı `assets` klasörü içine kopyalayalım.
++ Hazır olan [veritabanımızı](https://github.com/mehmetaydintr/Bayrak_Quiz_App/blob/main/BayrakQuiz/app/src/main/assets/bayrakquiz.sqlite) `assets` klasörü içine kopyalayalım.
 
 ![7](https://user-images.githubusercontent.com/37263322/117829169-2cf66980-b27b-11eb-84db-569cbc107f58.PNG)
 
