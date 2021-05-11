@@ -2,9 +2,9 @@
 
 ## İçerik
 
-1. [Kullanılan Teknolojiler](https://github.com/mehmetaydintr/Animasyonlu_Floating_Action_Button/blob/main/README.md#kullan%C4%B1lan-teknolojiler)
-2. [Proje Tanımı](https://github.com/mehmetaydintr/Animasyonlu_Floating_Action_Button/blob/main/README.md#proje-tan%C4%B1m%C4%B1)
-3. [Örnek Ekran Görüntüleri](https://github.com/mehmetaydintr/Animasyonlu_Floating_Action_Button/blob/main/README.md#proje-tan%C4%B1m%C4%B1)
+1. [Kullanılan Teknolojiler](https://github.com/mehmetaydintr/Bayrak_Quiz_App/blob/main/README.md#kullan%C4%B1lan-teknolojiler)
+2. [Proje Tanımı](https://github.com/mehmetaydintr/Bayrak_Quiz_App/blob/main/README.md#proje-tan%C4%B1m%C4%B1)
+3. [Örnek Ekran Görüntüleri](https://github.com/mehmetaydintr/Bayrak_Quiz_App/blob/main/README.md#%C3%B6rnek-ekran-g%C3%B6r%C3%BCnt%C3%BCleri)
 
 
 ## Kullanılan Teknolojiler
@@ -25,6 +25,8 @@
 ## Proje Tanımı
 
 Ülkelerin bayrakları üzerinden 5 sorudan oluşan **Android** tabanlı geliştirilmiş Bayrak Quiz App bir örnek projedir.
+
+**_SQLite_** kurulumu ve kullanımı oldukça kolay olan bir veritabanı kütüphanesidir. Kullanmak için kurulum yapmanız gerekmez. Diğer birçok veritabanı yönetim sisteminin aksine, SQLite bir istemci-sunucu veritabanı motoru değildir. Aksine, son programın içine yerleştirilmiştir. Veritabanına erişmek için sunucuya istek göndermek ve sonuç almak için ara işlem iletişimi kurmak gerekmez. Bu program doğrudan diskteki veritabanı dosyalarını okur ve yazar. Web tarayıcıları gibi uygulama yazılımlarında yerel / istemci depolaması için yerleşik bir veritabanı yazılımı olarak popüler bir seçimdir. Günümüzde birçok yaygın tarayıcı, işletim sistemi ve gömülü sistem (cep telefonları gibi) tarafından kullanıldığı için tartışmasız en yaygın kullanılan veritabanı motorudur.
 
 + İlk olarak tasarımımızla başlayalım. 3 adet ekranımız olacaktır.
 
